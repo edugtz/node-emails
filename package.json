@@ -11,10 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.3",
+    "ejs": "^2.6.1",
     "email-templates": "^5.0.4",
     "handlebars": "^4.1.1",
     "nodemailer": "^5.1.1",
-    "nodemailer-express-handlebars": "^3.0.0",
     "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "maildev": "^1.0.0"
   }
 }
